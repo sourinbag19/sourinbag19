@@ -1,4 +1,4 @@
-![logo](![logo](https://github.com/sourinbag19/sourinbag19/blob/main/link.png))
+![logo](https://github.com/sourinbag19/sourinbag19/blob/main/link.png)
 <h1 align="center">Hi 👋, I'm Sourin Bag</h1>
 <h3 align="center">A passionate frontend developer & ML Engineer from India</h3>
 
